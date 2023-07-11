@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FakhriDev
-- 👀 I’m interested in BackEnd Developer
+- 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning NextJs
 
 <!---
